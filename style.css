@@ -1,12 +1,14 @@
 	body{
-		background-color: red;
+		background-color: gray;
 		}
 
-	.center{
+	.image{
 		display: block;
 		margin-right: auto;
 		margin-left: auto;
 		margin-bottom: 0;
+		width: 500px; 
+		height: 350px 
 		}
 	h1{
 		text-align: Center;
@@ -20,11 +22,6 @@
 		margin-bottom: 0cm;
 		font-size: 1.5cm;
 		}
-	h3{
-		text-align: Center;
-		margin-top: 1cm;
-		margin-bottom: 0cm;
-		}
 	.a{
 		text-align: Center;
 		margin-top: 2mm;
@@ -37,25 +34,5 @@
 		margin-bottom: 2mm;
 		font-size: 5mm;
 		font-style: italic;
-		color: beige
-		}
-	.c{
-		text-align: Center;
-		margin-top: 2mm;
-		margin-bottom: 2mm;
-		font-size: 5mm;
-		color: red;
-		}
-
-	.center{
-		text-align: Center;
-		}
-
-	.bullet{
-		display: inline-block;
-		text-align: left;
-		}
-
-	ul{
-		font-size: 6mm;
+		color: red
 		}
